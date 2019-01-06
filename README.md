@@ -1,7 +1,7 @@
 # asm_in_prolog
 assembler written in prolog
 
-![img](https://media3.giphy.com/media/VXCPgZwEP7f1e/giphy.gif?cid=3640f6095c314cef69796d334983bc99)
+![a dog](http://www.librarified.net/wp-content/uploads/2013/03/i-have-no-idea-what-im-doing-dog.jpg)
 
 So.. I needed to write an assembler for a very small assembly language for a 16 bit machine. And I figured, why not do it in prolog?
 
