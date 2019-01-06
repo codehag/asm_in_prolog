@@ -13,4 +13,4 @@ To run, I used swipl.
 
 then you can run it against the test assembly file
 
-`main("Add")`.
+`-? main("Add")`.
